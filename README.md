@@ -33,3 +33,10 @@ The technologies used were:
 - CSS https://www.w3schools.com/Css/
 - Bootstrap https://getbootstrap.com/
 
+## References 
+
+https://en.wikipedia.org/wiki/The_Monkees
+
+https://getbootstrap.com/docs/4.0/components/forms/
+
+
